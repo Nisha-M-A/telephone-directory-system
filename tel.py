@@ -93,7 +93,7 @@ def enq_name():
                 d={}
                 d["Name"]=emp_name.title()
                 d["Location"]=tel_line.split("|")[4]
-                d["DeptID"]=tel_line.split("|")[1]
+                d["DeptID"]=tel_line.split("|")[3]
                 d["TelNumber"]=tel_line.split("|")[0]
                 a.append(d)
     if not exists:
