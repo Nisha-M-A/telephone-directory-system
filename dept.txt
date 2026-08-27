@@ -1,0 +1,5 @@
+1000|Computer Science
+1001|Civil
+1002|Mechanical
+1003|Chemical
+1004|Electronic
