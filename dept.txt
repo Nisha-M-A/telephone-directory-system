@@ -3,3 +3,4 @@
 1002|Mechanical
 1003|Chemical
 1004|Electronic
+1005|HR

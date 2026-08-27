@@ -59,7 +59,7 @@ def add_emp():
         print("the location exceeds 5 characters")
         return
     with open ("emp.txt", "a") as file:
-        file.write(f"{code}|{emp_name}|{dept_code}|{dept_name}|{loc}")
+        file.write(f"{code}|{emp_name}|{dept_code}|{dept_name}|{loc}\n")
         print("Employee Added Successfully!")
         return
 
